@@ -1,16 +1,10 @@
 {
-  "adsterra_direct_link": "https://tu-enlace-de-adsterra-aqui.com",
-  "anuncio_activo": true,
+  "adsterra_direct_link": "https://tu-direct-link-de-adsterra.com",
   "canales": [
-    {
-      "nombre": "Canal Fútbol 1 HD",
-      "url_stream": "https://khala.futlivehd.com/winplus/tracks-v1a1/mono.m3u8?ip=190.115.13.170&token=e9e6b0f81eea3a3a2a97ba4748c76125d5823134-1f-1794144049-1794090049",
-      "categoria": "Deportes"
-    },
-    {
-      "nombre": "Película de Estreno",
-      "url_stream": "https://servidor2.com",
-      "categoria": "Películas"
-    }
+    { "nombre": "Tarjeta 1", "url_stream": "https://14c51.streameasthd.net" },
+    { "nombre": "Tarjeta 2", "url_stream": "https://playnixes.com/stream/" },
+    { "nombre": "Tarjeta 3", "url_stream": "https://tyg2mnl9.fubohd.com/w" },
+    { "nombre": "Tarjeta 4", "url_stream": "https://www.rojadirectatv3.pl" },
+    { "nombre": "Tarjeta 5", "url_stream": "https://test-streams.mux.dev/" }
   ]
 }
