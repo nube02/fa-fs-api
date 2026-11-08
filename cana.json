@@ -1,10 +1,9 @@
 {
   "adsterra_direct_link": "https://tu-direct-link-de-adsterra.com",
   "canales": [
-    { "nombre": "Tarjeta 1", "url_stream": "https://khala.futlivehd.com/winplus/tracks-v1a1/mono.m3u8?ip=190.115.13.170&token=e9e6b0f81eea3a3a2a97ba4748c76125d5823134-1f-1794144049-1794090049
-" },
+    { "nombre": "Tarjeta 1", "url_stream": "https://c2f2zq.fubo18.com/foxdeportes/index.m3u8?token=a266e46851788482a527e9f5059def01db01034c-87-1794118933-1794100933" },
     { "nombre": "Tarjeta 2", "url_stream": "https://99.envivosenhd.beer/global/eventos2/mono.m3u8?token=fee305b4eec79bef01a186f6ce77daaaaccef787-2a-1794118710-1794100710" },
-    { "nombre": "Tarjeta 3", "url_stream": "https://tyg2mnl9.fubohd.com/w" },
+    { "nombre": "Tarjeta 3", "url_stream": "https://c2f2zq.fubo18.com/foxdeportes/index.m3u8?token=a266e46851788482a527e9f5059def01db01034c-87-1794118933-1794100933" },
     { "nombre": "Tarjeta 4", "url_stream": "https://www.rojadirectatv3.pl" },
     { "nombre": "Tarjeta 5", "url_stream": "https://test-streams.mux.dev/" }
   ]
