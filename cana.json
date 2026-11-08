@@ -2,24 +2,16 @@
   "adsterra_direct_link": "https://www.profitableratecpmnetwork.com/wwd4rbgif?key=a135aef48535062160fb922e2a65347e",
   "canales": [
     {
-      "nombre": "Tarjeta 1",
+      "titulo": "Real Madrid vs Atlético",
+      "hora_pais": "14:00 España",
+      "estado": "EN VIVO",
       "url_stream": "https://c2f2zq.fubo18.com/foxdeportes/index.m3u8?token=a266e46851788482a527e9f5059def01db01034c-87-1794118933-1794100933"
     },
     {
-      "nombre": "Tarjeta 2",
-      "url_stream": "https://c2f2zq.fubo18.com/foxdeportes/index.m3u8?token=a266e46851788482a527e9f5059def01db01034c-87-1794118933-1794100933"
-    },
-    {
-      "nombre": "Tarjeta 3",
-      "url_stream": "https://fubohd.com"
-    },
-    {
-      "nombre": "Tarjeta 4",
-      "url_stream": "https://rojadirectatv3.pl"
-    },
-    {
-      "nombre": "Tarjeta 5",
-      "url_stream": "https://mux.dev"
+      "titulo": "Barcelona vs PSG",
+      "hora_pais": "16:00 España",
+      "estado": "PRÓXIMAMENTE",
+      "url_stream": "https://playnixes.com"
     }
   ]
 }
