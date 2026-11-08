@@ -4,7 +4,7 @@
   "canales": [
     {
       "nombre": "Canal Fútbol 1 HD",
-      "url_stream": "https://servidor1.com",
+      "url_stream": "https://khala.futlivehd.com/winplus/tracks-v1a1/mono.m3u8?ip=190.115.13.170&token=e9e6b0f81eea3a3a2a97ba4748c76125d5823134-1f-1794144049-1794090049",
       "categoria": "Deportes"
     },
     {
