@@ -1,0 +1,16 @@
+{
+  "adsterra_direct_link": "https://tu-enlace-de-adsterra-aqui.com",
+  "anuncio_activo": true,
+  "canales": [
+    {
+      "nombre": "Canal Fútbol 1 HD",
+      "url_stream": "https://servidor1.com",
+      "categoria": "Deportes"
+    },
+    {
+      "nombre": "Película de Estreno",
+      "url_stream": "https://servidor2.com",
+      "categoria": "Películas"
+    }
+  ]
+}
